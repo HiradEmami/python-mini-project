@@ -8,3 +8,23 @@
 /.vs
 /Tic_Tac_Toe/tic_tac_toe -OOP.py
 /.vscode
+
+# Pelagion Assistant ignore rules
+.venv/
+.typing/
+.agents/skills/
+.local/
+.pytest_cache/
+.ruff_cache/
+.coverage*
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+site/
+reports/
+.env
+.env.*
+!.env.example
+artifacts/
