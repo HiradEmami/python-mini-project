@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "recorded_at_utc": "2026-09-29T10:08:21+00:00",
+  "purpose": "Immutable initial Pelagion takeover source baseline",
+  "feature_branch": "feat/init-pelagion-takeover",
+  "upstream": {
+    "repository": {
+      "id": 386575694,
+      "node_id": "MDEwOlJlcG9zaXRvcnkzODY1NzU2OTQ=",
+      "name": "python-mini-project",
+      "full_name": "ndleah/python-mini-project",
+      "html_url": "https://github.com/ndleah/python-mini-project",
+      "clone_url": "https://github.com/ndleah/python-mini-project.git",
+      "default_branch": "main",
+      "created_at": "2021-07-16T09:05:09Z",
+      "updated_at": "2026-09-28T19:25:22Z",
+      "pushed_at": "2024-08-16T21:05:01Z",
+      "fork": false,
+      "private": false,
+      "size": 126309
+    },
+    "branch": "main",
+    "commit": {
+      "sha": "c092b63f24ee927dc1a55a0fe28b176e7a6b6521",
+      "tree_sha": "5e89b5fe6fef0941b4fde38fb759da84c4127e4b",
+      "author_timestamp": "2024-06-02T06:12:50Z",
+      "committer_timestamp": "2024-06-02T06:12:50Z",
+      "subject": "remove projec table due to high maintainance",
+      "reachable_commit_count": 582,
+      "exact_tags": [],
+      "describe": "c092b63",
+      "declared_versions": {}
+    }
+  },
+  "fork": {
+    "repository": {
+      "id": 1392476637,
+      "node_id": "R_kgDOUv-B3Q",
+      "name": "python-mini-project",
+      "full_name": "HiradEmami/python-mini-project",
+      "html_url": "https://github.com/HiradEmami/python-mini-project",
+      "clone_url": "https://github.com/HiradEmami/python-mini-project.git",
+      "default_branch": "main",
+      "created_at": "2026-09-28T11:00:56Z",
+      "updated_at": "2026-09-28T11:00:57Z",
+      "pushed_at": "2026-09-28T11:21:23Z",
+      "fork": true,
+      "private": false,
+      "size": 126238
+    },
+    "branch": "main",
+    "commit": {
+      "sha": "c092b63f24ee927dc1a55a0fe28b176e7a6b6521",
+      "tree_sha": "5e89b5fe6fef0941b4fde38fb759da84c4127e4b",
+      "author_timestamp": "2024-06-02T06:12:50Z",
+      "committer_timestamp": "2024-06-02T06:12:50Z",
+      "subject": "remove projec table due to high maintainance",
+      "reachable_commit_count": 582,
+      "exact_tags": [],
+      "describe": "c092b63",
+      "declared_versions": {}
+    },
+    "previous_remote_commit": "c092b63f24ee927dc1a55a0fe28b176e7a6b6521"
+  },
+  "network_source": {
+    "id": 386575694,
+    "node_id": "MDEwOlJlcG9zaXRvcnkzODY1NzU2OTQ=",
+    "name": "python-mini-project",
+    "full_name": "ndleah/python-mini-project",
+    "html_url": "https://github.com/ndleah/python-mini-project",
+    "clone_url": "https://github.com/ndleah/python-mini-project.git",
+    "default_branch": "main",
+    "created_at": "2021-07-16T09:05:09Z",
+    "updated_at": "2026-09-28T19:25:22Z",
+    "pushed_at": "2024-08-16T21:05:01Z",
+    "fork": false,
+    "private": false,
+    "size": 126309
+  },
+  "feature_base_commit": "c092b63f24ee927dc1a55a0fe28b176e7a6b6521",
+  "source_observed_at_utc": "2026-09-29T10:02:52+00:00",
+  "historical_fork_creation_commit": null,
+  "notes": [
+    "The GitHub repository ID and node ID identify each repository, not a commit.",
+    "Reachable commit count is a history count, not a release number. Exact tags and declared package versions may be absent.",
+    "GitHub creation timestamps do not establish the original fork-creation commit.",
+    "This baseline does not update automatically after later merges. Git history preserves subsequent edits.",
+    "The feature commit containing this file is recorded in Git history; it cannot contain its own hash."
+  ],
+  "carried_forward_cleanup_commit": "f119e372579236a221fcdebc5da00e78501af8da"
+}
